@@ -19,11 +19,15 @@ yarn add str-highlight
 
 #### HTML
 ```js
+const { html } = require('str-highlight');
+
 const htmlText = html`<p class="paragraph">Hello world<p>`
 ```
 
 #### CSS
 ```js
+const { css } = require('str-highlight');
+
 const styles = css`
     items {
         color: red
