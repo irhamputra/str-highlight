@@ -1,0 +1,9 @@
+{
+  "name": "str-highlight",
+  "version": "1.0.2",
+  "description": "string highlight",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Muhamad Irham Prasetyo",
+  "license": "ISC"
+}
