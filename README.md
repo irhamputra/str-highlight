@@ -4,13 +4,13 @@ the string for html, css and gql will be highlighted in JS
 
 * npm
 ```bash 
-npm i str-hightlight
+npm i str-highlight
 ```
 or
 
 * yarn
 ```bash 
-yarn add str-hightlight
+yarn add str-highlight
 ```
 
 
